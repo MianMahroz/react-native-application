@@ -1,0 +1,9 @@
+export const PERSONAL_INFORMATION = 'PERSONAL INFORMATION';
+export const EMERGENCY_CONTACT_DETAILS = 'EMERGENCY CONTACT DETAILS';
+export const EMAIL_ADDRESS = 'EMAIL_ADDRESS';
+export const EMPLOYEE_DETAILS = 'EMPLOYEE_DETAILS';
+export const LIABILITIES = 'LIABILITIES';
+export const ASSET = 'ASSET';
+export const INCOME = 'INCOME';
+export const EXPENSE = 'EXPENSE';
+export const COMPANY_ID = 1;
